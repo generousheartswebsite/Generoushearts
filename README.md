@@ -14,7 +14,7 @@
       color: #333;
     }
     header {
-      background: url('https://example.com/children-hero.jpg') no-repeat center center/cover;
+      background: url('https://Generousheart.com/children-hero.jpg') no-repeat center center/cover;
       color: white;
       padding: 100px 20px;
       text-align: center;
